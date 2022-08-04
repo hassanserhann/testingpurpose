@@ -1,1 +1,1 @@
-hey there
+<flask_socketio.SocketIO object at 0x10afe9850>
